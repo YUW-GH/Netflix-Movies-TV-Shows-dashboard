@@ -40,8 +40,7 @@ The data used for this dashboard comes from:
 ## 👩‍💻 Author
 
 **Yu Wu**  
-M.S. in Business Analytics  
-[GitHub Profile](https://github.com/YUW-GH)
+[[GitHub Profile](https://github.com/YUW-GH)](https://github.com/YUW-GH/Netflix-Movies-TV-Shows-dashboard)
 
 ---
 
