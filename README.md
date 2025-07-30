@@ -33,7 +33,7 @@ This Tableau dashboard provides an exploratory overview of Netflix content, incl
 ## 📦 Data Source
 
 The data used for this dashboard comes from:  
-[Netflix Movies and TV Shows – Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[Netflix Movies and TV Shows – Kaggle Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 
 ---
 
