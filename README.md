@@ -25,6 +25,7 @@ This Tableau dashboard provides an exploratory overview of Netflix content, incl
 ## 📁 Files Included
 
 - `Netflix_Movies&TVShows_dashboard.twb`: Tableau workbook file
+- `Netflix_Movies&TVShows_dashboard.twbx`: Tableau workbook file
 - `Netflix_Movies dashboard_preview.png`: Screenshot of the Tableau dashboard
 
 ---
