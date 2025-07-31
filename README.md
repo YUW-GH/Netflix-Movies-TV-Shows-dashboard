@@ -26,7 +26,7 @@ This project visualizes and analyzes Netflix’s movie and TV show data to uncov
 
 - **Tableau**: Data visualization and dashboard development
 - **Data Source**: Netflix Movies and TV Shows Dataset (https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows))
-
+  
 ---
 
 ## Author
