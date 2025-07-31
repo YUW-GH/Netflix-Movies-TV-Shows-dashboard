@@ -1,43 +1,35 @@
-# 📺 Netflix Movies & TV Shows Dashboard (Tableau)
+# Netflix Movies & TV Shows Dashboard (Tableau)
 
-This Tableau dashboard provides an exploratory overview of Netflix content, including trends in movie and TV show releases, content ratings, country&region distribution, and genre analysis.
-
----
-
-## 📊 Key Features
-
-- Year-wise trend of Netflix content additions
-- Top countries producing Netflix content
-- Type distribution (Movies vs TV Shows)
-- Geographic breakdown and interactive map
-- Bar and pie charts summarizing trends
-
----
-
-## 🖼️ Dashboard Preview
+An interactive Tableau dashboard that provides an exploratory overview of Netflix's global content. The analysis focuses on  yearly release trends, geographic availability and content type distribution.
 
 ![Netflix Dashboard Preview](Netflix_Movies%20dashboard_preview.png)
 
-> 📌 *This is a static preview of the dashboard. To interact with it, download and open the `.twb` file in Tableau Desktop.*
+https://public.tableau.com/app/profile/yu.wu1970/viz/Netflix_MoviesTVShows_dashboard/NetflixMoviesandTVShowsReport
+
+## Overview
+
+This project visualizes and analyzes Netflix’s movie and TV show data to uncover patterns in:
+
+- Global distribution of Netflix content by country and region
+- Yearly trends in the number of titles added
+- Breakdown of content types (Movies vs. TV Shows)
+- Top 5 countries with the highest volume of content
+
+## Key Insights
+
+- The **United States** has the largest Netflix content library, followed by **India** and the **United Kingdom**.
+- The majority of titles are **movies**, making up more than **69%** of the total content.
+- The number of new titles added peaked around **2019**, followed by a decline in 2020–2021, possibly due to the pandemic.
+- Netflix shows strong regional availability in North America, Asia, and Europe, with noticeable gaps in some parts of Africa and Central Asia.
+
+## Tools & Technologies
+
+- **Tableau**: Data visualization and dashboard development
+- **Data Source**: Netflix Movies and TV Shows Dataset (https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows))
 
 ---
 
-## 📁 Files Included
-
-- `Netflix_Movies&TVShows_dashboard.twb`: Tableau workbook file
-- `Netflix_Movies&TVShows_dashboard.twbx`: Tableau workbook file
-- `Netflix_Movies dashboard_preview.png`: Screenshot of the Tableau dashboard
-
----
-
-## 📦 Data Source
-
-The data used for this dashboard comes from:  
-[Netflix Movies and TV Shows – Kaggle Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
-
----
-
-## 👩‍💻 Author
+## Author
 
 **Yu Wu**  
 [[GitHub Profile](https://github.com/YUW-GH)](https://github.com/YUW-GH/Netflix-Movies-TV-Shows-dashboard)
